@@ -9,4 +9,10 @@ ok
 now go check out MY website
 https://vedl.vercel.app
 
-bye.
+
+# 😳but wait ...
+T- there's something you need to know (｡>﹏<).
+
+Most *public* repos on my profile (if not all), are purely for pull requests.
+My **ACTUAL** work will most likely be in organizations.
+

@@ -1,3 +1,10 @@
+## note
+i have my own instance of forgejo now, meaning i may use github a bit less
+
+https://git.tutel.page
+
+---
+
 ## hey there! 👋
 im aster
 
